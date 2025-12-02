@@ -1,0 +1,5 @@
+discord.py>=2.0.0
+python-dotenv
+docker>=6.0.0
+aiohttp
+aiosqlite
